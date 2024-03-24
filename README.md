@@ -1,2 +1,2 @@
-# apna-collegedemo
-This is my first GIT Repository
+# nikki's coding adventure
+Python journey
